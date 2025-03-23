@@ -98,7 +98,7 @@ const CHARS: &[char] = &[
     'm', 'n', 'p', 'q', 'r', 's', 't', 'u', 'v', 'w', 'x', 'y', 'z',
 ];
 
-pub const RENDEZVOUS_SERVERS: &[&str] = &["113.45.147.172"];
+pub const RENDEZVOUS_SERVERS: &[&str] = &["xiba.dongming.site"];
 pub const RS_PUB_KEY: &str = "xpyKYDWUt2FNPGaxlNt1eRnbGr7+rxtVblstq3bvUFg=";
 
 pub const RENDEZVOUS_PORT: i32 = 21116;
